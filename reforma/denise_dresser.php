@@ -161,6 +161,46 @@ $signature2 = md5($hash2);
   gtag('config', 'UA-120715407-16');
 </script>
 
+<style>
+ /*
+        Desktop first
+        */
+        
+        /* Extra Small Devices, Phones */ 
+    @media only screen and (max-width : 768px) {
+        
+body > header > nav > div > div{
+text-align: center;
+}
+
+body > div.nk-main.nk-main-dark > div.nk-header-title.nk-header-title-lg.nk-header-title-parallax-content.nk-header-content-center-left > div.nk-header-content > div > div > div > div.col-lg-8.col-md-8{
+text-align: center;
+}
+body > div.nk-main.nk-main-dark > div.nk-header-title.nk-header-title-lg.nk-header-title-parallax-content.nk-header-content-center-left > div.nk-header-content > div > div > div > div.col-lg-8.col-md-8 > div.para > h1{
+font-size: 3rem;
+}
+
+.para{
+width: 100%;
+}
+
+.pricing {
+left: 0;
+}
+
+.person {
+    max-width: 90%;
+    position: absolute;
+    bottom: 0;
+    right: -15%;
+    z-index: -1;
+    top: 0;
+    left: auto;
+}
+    }
+
+  </style>
+
     
 
 </head>
