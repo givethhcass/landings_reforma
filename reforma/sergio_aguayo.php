@@ -159,7 +159,6 @@ $signature2 = md5($hash2);
   gtag('config', 'UA-120715407-16');
 </script>
 
-
 <!-- Hotjar Tracking Code for www.polimatia.com -->
 <script>
     (function(h,o,t,j,a,r){
